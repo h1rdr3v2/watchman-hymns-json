@@ -1,11 +1,11 @@
 {
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2025-01-13",
   "hymns": [
     {
       "id": 1,
       "number": "1",
-      "title": "Oh For A Thousand Tongues",
+      "title": "Oh For A Thousand Tongues - New",
       "author": "Charles Wesley",
       "lyrics": [
         {
