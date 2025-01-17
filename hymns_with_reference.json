@@ -1,12 +1,17 @@
 {
   "version": 1,
-  "lastUpdated": "2025-01-13",
+  "lastUpdated": "2025-01-17",
   "hymns": [
     {
       "id": 1,
       "number": "1",
       "title": "O for a Thousand Tongues to Sing",
       "author": "Charles Wesley",
+      "category": "Praise and Worship",
+      "publication_year": 1739,
+      "reference_url": "https://en.wikipedia.org/wiki/O_for_a_Thousand_Tongues_to_Sing",
+      "date_checked": "2025-01-17",
+      "meter": "8.6.8.6",
       "lyrics": [
         {
           "verse": 1,
@@ -38,14 +43,18 @@
           "content": "Glory to God and praise and love\nBe ever, ever giv'n\nBy saints below and saints above-\nThe church in earth and heav'n.",
           "type": "verse"
         }
-      ],
-      "category": "Praise and Worship"
+      ]
     },
     {
       "id": 2,
       "number": "2",
       "title": "Praise to the Lord",
-      "author": null,
+      "author": "Joachim Neander",
+      "category": "Praise and Worship",
+      "publication_year": 1739,
+      "reference_url": "https://en.wikipedia.org/wiki/O_for_a_Thousand_Tongues_to_Sing",
+      "date_checked": "2025-01-17",
+      "meter": "8.6.8.6",
       "lyrics": [
         {
           "verse": 1,
@@ -67,14 +76,18 @@
           "content": "Praise to the Lord, who with marvelous wisdom hath made thee!\nDecked thee with health, and with loving hand guided and stayed thee;",
           "type": "verse"
         }
-      ],
-      "category": "Praise and Worship"
+      ]
     },
     {
       "id": 3,
       "number": "3",
       "title": "To God Be The Glory",
-      "author": null,
+      "author": "William Howard Doane",
+      "category": "Praise and Worship",
+      "publication_year": 1875,
+      "reference_url": "https://en.wikipedia.org/wiki/To_God_Be_the_Glory",
+      "date_checked": "2025-01-17",
+      "meter": "11.11.11.11 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -103,8 +116,7 @@
           "content": "Praise the Lord! Praise the Lord\nLet the earth hear His voice!\nPraise the Lord! Praise the Lord\nLet the people rejoice!\nOh, come to the Father through Jesus the Son;\nAnd give Him the glory - Great things He hath done.",
           "type": "chorus"
         }
-      ],
-      "category": "Praise and Worship"
+      ]
     },
     {
       "id": 4,
@@ -217,7 +229,13 @@
       "id": 7,
       "number": "7",
       "title": "Immortal, Invisible, God Only Wise",
-      "author": null,
+      "author": "Walter Chalmers Smith",
+      "category": "Praise and Worship",
+      "public_domain": true,
+      "publication_year": 1867,
+      "reference_url": "https://en.wikipedia.org/wiki/Praise_to_the_Lord,_the_Almighty",
+      "date_checked": "2025-01-17",
+      "meter": null,
       "lyrics": [
         {
           "verse": 1,
@@ -239,8 +257,7 @@
           "content": "Great Father of glory, pure Father of light,\nThine angels adore Thee, all veiling their sight;\nAll laud we would render: O help us to see\n'Tis only the splendour of light hideth Thee.",
           "type": "verse"
         }
-      ],
-      "category": "Praise and Worship"
+      ]
     },
     {
       "id": 8,
@@ -308,8 +325,14 @@
     {
       "id": 9,
       "number": "9",
-      "title": "Holy, Holy, Holy",
-      "author": null,
+      "title": "Holy, Holy, Holy! Lord God Almighty",
+      "author": "Reginald Heber",
+      "category": "Praise and Worship",
+      "public_domain": true,
+      "publication_year": 1861,
+      "reference_url": "https://en.wikipedia.org/wiki/Holy,_Holy,_Holy",
+      "date_checked": "2025-01-17",
+      "meter": "11.12.12.10",
       "lyrics": [
         {
           "verse": 1,
@@ -331,8 +354,7 @@
           "content": "Holy, holy, holy, Lord God Almighty!\nAll Thy works shall praise Thy name, in earth, and sky, and sea!\nHoly, holy, holy, merciful and mighty!\nGod in Three Persons, blessed Trinity!",
           "type": "verse"
         }
-      ],
-      "category": "Praise and Worship"
+      ]
     },
     {
       "id": 10,
@@ -426,7 +448,13 @@
       "id": 12,
       "number": "12",
       "title": "How Great Thou Art",
-      "author": "Stuart K. Hine",
+      "author": "Carl Boberg",
+      "category": "Praise and Worship",
+      "public_domain": true,
+      "publication_year": 1885,
+      "reference_url": "https://en.wikipedia.org/wiki/How_Great_Thou_Art",
+      "date_checked": "2025-01-17",
+      "meter": "11.10.11.10 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -464,14 +492,19 @@
           "content": "Then sings my soul, my Saviour God to thee;\nHow great Thou art, how great Thou art;\nThen sings my soul, my Saviour God to thee;\nHow great Thou art, how great Thou art;",
           "type": "chorus"
         }
-      ],
-      "category": "Praise and Worship"
+      ]
     },
     {
       "id": 13,
       "number": "13",
       "title": "Great Is Thy Faithfulness",
       "author": null,
+      "category": "Praise and Worship",
+      "public_domain": true,
+      "publication_year": 1923,
+      "reference_url": "https://en.wikipedia.org/wiki/Great_Is_Thy_Faithfulness",
+      "date_checked": "2025-01-17",
+      "meter": "11.10.11.10 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -500,8 +533,7 @@
           "content": "Great is Thy faithfulness!\nGreat is Thy faithfulness!\nMorning by morning new mercies I see,\nAll I have needed Thy hand hath provided-\nGreat is Thy faithfulness, Lord, unto me!",
           "type": "chorus"
         }
-      ],
-      "category": "Praise and Worship"
+      ]
     },
     {
       "id": 14,
@@ -942,7 +974,13 @@
       "id": 25,
       "number": "25",
       "title": "Joy to the World",
-      "author": null,
+      "author": "Isaac Watts",
+      "category": "Praise and Worship",
+      "public_domain": true,
+      "publication_year": 1719,
+      "reference_url": "https://en.wikipedia.org/wiki/Joy_To_The_World",
+      "date_checked": "2025-01-17",
+      "meter": "8.6.8.6 Common metre (C.M.)",
       "lyrics": [
         {
           "verse": 1,
@@ -964,8 +1002,7 @@
           "content": "He rules the world with truth and\ngrace,\nAnd makes the nations prove\nThe glories of His righteousness,\nAnd wonders of His love, and\nwonders of His love,\nAnd wonders, and wonders of His\nlove.",
           "type": "verse"
         }
-      ],
-      "category": "Praise and Worship"
+      ]
     },
     {
       "id": 26,
@@ -1117,7 +1154,13 @@
       "id": 29,
       "number": "29",
       "title": "The Old Rugged Cross",
-      "author": null,
+      "author": "George Bennard",
+      "category": "Cross and Blood",
+      "public_domain": true,
+      "publication_year": 1912,
+      "reference_url": "https://en.wikipedia.org/wiki/The_Old_Rugged_Cross",
+      "date_checked": "2025-01-17",
+      "meter": "6.6.8.6.6.8.9.9.9.9",
       "lyrics": [
         {
           "verse": 1,
@@ -1155,8 +1198,7 @@
           "content": "So I'll cherish the old rugged cross;\nTill my trophies at last I lay down;\nI will cling to the old rugged cross;\nAnd exchange it some day for a crown.",
           "type": "chorus"
         }
-      ],
-      "category": "Cross and Blood"
+      ]
     },
     {
       "id": 30,
@@ -3635,6 +3677,11 @@
       "title": "Grace Greater Than All Our Sin",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1911,
+      "reference_url": "https://en.wikipedia.org/wiki/Grace_Greater_Than_All_Our_Sin",
+      "date_checked": "2025-01-17",
+      "meter": "9.9.9.9 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -3837,9 +3884,14 @@
     {
       "id": 94,
       "number": "94",
-      "title": "Turn Your Eyes Upon Jesus",
-      "author": null,
+      "title": "Turn Your Eyes Upon Jesus - The Heavenly Vision",
+      "author": "Helen Howarth Lemmel",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1922,
+      "reference_url": "https://en.wikipedia.org/wiki/Turn_Your_Eyes_Upon_Jesus",
+      "date_checked": "2025-01-17",
+      "meter": "9.8.9.8.7.8.10.9",
       "lyrics": [
         {
           "verse": 1,
@@ -4558,8 +4610,13 @@
       "id": 112,
       "number": "112",
       "title": "Blessed Assurance",
-      "author": null,
+      "author": "Fanny Crosby",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1873,
+      "reference_url": "https://en.wikipedia.org/wiki/Blessed_Assurance",
+      "date_checked": "2025-01-17",
+      "meter": "9.10.9.9 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -4630,6 +4687,11 @@
       "title": "It Is Well with My Soul",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1873,
+      "reference_url": "https://en.wikipedia.org/wiki/It_Is_Well_with_My_Soul",
+      "date_checked": "2025-01-17",
+      "meter": "11.8.11.9 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -4943,8 +5005,13 @@
       "id": 121,
       "number": "121",
       "title": "Will Your Anchor Hold",
-      "author": null,
+      "author": "Priscilla Jane Owens",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1882,
+      "reference_url": "https://en.wikipedia.org/wiki/Will_Your_Anchor_Hold",
+      "date_checked": "2025-01-17",
+      "meter": null,
       "lyrics": [
         {
           "verse": 1,
@@ -4997,8 +5064,13 @@
       "id": 122,
       "number": "122",
       "title": "'Tis So Sweet to Trust in Jesus",
-      "author": null,
+      "author": "Louisa M. R. Stead",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1882,
+      "reference_url": "https://en.wikipedia.org/wiki/'Tis_So_Sweet_to_Trust_in_Jesus",
+      "date_checked": "2025-01-17",
+      "meter": "8.7.8.7 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -5240,8 +5312,13 @@
       "id": 127,
       "number": "127",
       "title": "The Church's One Foundation",
-      "author": null,
+      "author": "Samuel John Stone",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1866,
+      "reference_url": "https://en.wikipedia.org/wiki/The_Church's_One_Foundation",
+      "date_checked": "2025-01-17",
+      "meter": "7.6.7.6 D",
       "lyrics": [
         {
           "verse": 1,
@@ -5274,8 +5351,13 @@
       "id": 128,
       "number": "128",
       "title": "The Lord's My Shepherd",
-      "author": null,
+      "author": "Metrical translation attributed to Francis Rous",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1872,
+      "reference_url": "https://en.wikipedia.org/wiki/The_Lord's_My_Shepherd",
+      "date_checked": "2025-01-17",
+      "meter": "8.6.8.6",
       "lyrics": [
         {
           "verse": 1,
@@ -5389,8 +5471,13 @@
       "id": 131,
       "number": "131",
       "title": "Guide Me, O Thou Great Jehovah",
-      "author": null,
+      "author": "William Williams",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1907,
+      "reference_url": "https://en.wikipedia.org/wiki/Guide_Me,_O_Thou_Great_Jehovah",
+      "date_checked": "2025-01-17",
+      "meter": "8.7.8.7.4.4.7.7",
       "lyrics": [
         {
           "verse": 1,
@@ -6129,6 +6216,11 @@
       "title": "Leaning on the Everlasting Arms",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1887,
+      "reference_url": "https://en.wikipedia.org/wiki/Leaning_on_the_Everlasting_Arms",
+      "date_checked": "2025-01-17",
+      "meter": "10.9.10.9 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -6719,6 +6811,11 @@
       "title": "At the Cross",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1707,
+      "reference_url": "https://en.wikipedia.org/wiki/At_the_Cross",
+      "date_checked": "2025-01-17",
+      "meter": "8.6.8.6",
       "lyrics": [
         {
           "verse": 1,
@@ -6852,8 +6949,13 @@
       "id": 167,
       "number": "167",
       "title": "I Surrender All",
-      "author": null,
+      "author": "Judson W. Van DeVenter",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1896,
+      "reference_url": "https://en.wikipedia.org/wiki/I_Surrender_All",
+      "date_checked": "2025-01-17",
+      "meter": "8.7.8.7 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -6906,8 +7008,13 @@
       "id": 168,
       "number": "168",
       "title": "When I Survey the Wondrous Cross",
-      "author": null,
+      "author": "Isaac Watts",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1707,
+      "reference_url": "https://en.wikipedia.org/wiki/When_I_Survey_the_Wondrous_Cross",
+      "date_checked": "2025-01-17",
+      "meter": "8.8.8.8 (L.M.)",
       "lyrics": [
         {
           "verse": 1,
@@ -7037,9 +7144,14 @@
     {
       "id": 172,
       "number": "172",
-      "title": "I Am Thine, O Lord",
-      "author": null,
+      "title": "I am Thine, O Lord",
+      "author": "Fanny Crosby",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1875,
+      "reference_url": "https://en.wikipedia.org/wiki/I_Am_Thine,_O_Lord",
+      "date_checked": "2025-01-17",
+      "meter": "10.7.10.7 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -7198,6 +7310,11 @@
       "title": "Near the Cross",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1869,
+      "reference_url": "https://en.wikipedia.org/wiki/Near_the_Cross",
+      "date_checked": "2025-01-17",
+      "meter": "7.6.7.6 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -7655,9 +7772,14 @@
     {
       "id": 188,
       "number": "188",
-      "title": "Bringing in the Sheaves",
+      "title": "Bringing In the Sheaves",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1874,
+      "reference_url": "https://en.wikipedia.org/wiki/Bringing_in_the_Sheaves",
+      "date_checked": "2025-01-17",
+      "meter": "12.11.12.11 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -7888,8 +8010,13 @@
       "id": 194,
       "number": "194",
       "title": "I Love to Tell the Story",
-      "author": null,
+      "author": "Katherine Hankey",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1866,
+      "reference_url": "https://en.wikipedia.org/wiki/I_Love_to_Tell_the_Story",
+      "date_checked": "2025-01-17",
+      "meter": "7.6.7.6 D with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -8223,6 +8350,11 @@
       "title": "There Shall Be Showers of Blessing",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1883,
+      "reference_url": "https://en.wikipedia.org/wiki/There_Shall_Be_Showers_of_Blessing",
+      "date_checked": "2025-01-17",
+      "meter": "8.7.8.7 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -9486,6 +9618,11 @@
       "title": "Pass Me Not, O Gentle Saviour",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1868,
+      "reference_url": "https://en.wikipedia.org/wiki/Pass_Me_Not,_O_Gentle_Saviour",
+      "date_checked": "2025-01-17",
+      "meter": "8.5.8.5 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -9857,8 +9994,13 @@
       "id": 243,
       "number": "243",
       "title": "Onward, Christian Soldiers",
-      "author": null,
+      "author": "Sabine Baring-Gould",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1871,
+      "reference_url": "https://en.wikipedia.org/wiki/Onward,_Christian_Soldiers",
+      "date_checked": "2025-01-17",
+      "meter": null,
       "lyrics": [
         {
           "verse": 1,
@@ -10332,8 +10474,13 @@
       "id": 255,
       "number": "255",
       "title": "Abide with Me",
-      "author": null,
+      "author": "Henry Francis Lyte",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1847,
+      "reference_url": "https://en.wikipedia.org/wiki/Abide_with_Me",
+      "date_checked": "2025-01-17",
+      "meter": "10 10 10 10",
       "lyrics": [
         {
           "verse": 1,
@@ -10438,6 +10585,11 @@
       "title": "When the Roll Is Called Up Yonder",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1893,
+      "reference_url": "https://en.wikipedia.org/wiki/When_the_Roll_Is_Called_Up_Yonder",
+      "date_checked": "2025-01-17",
+      "meter": "15.11.15.11 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -10753,6 +10905,11 @@
       "title": "Shall We Gather at the River?",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1864,
+      "reference_url": "https://en.wikipedia.org/wiki/Shall_We_Gather_at_the_River?",
+      "date_checked": "2025-01-17",
+      "meter": "8.7.8.7 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -11644,6 +11801,11 @@
       "title": "Jesus Bids Us Shine",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1868,
+      "reference_url": "https://en.wikipedia.org/wiki/Jesus_Bids_Us_Shine",
+      "date_checked": "2025-01-17",
+      "meter": "10.11.9.10",
       "lyrics": [
         {
           "verse": 1,
@@ -11790,8 +11952,13 @@
       "id": 291,
       "number": "291",
       "title": "All Things Bright and Beautiful",
-      "author": null,
+      "author": "Cecil Frances Alexander",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1848,
+      "reference_url": "https://en.wikipedia.org/wiki/All_Things_Bright_and_Beautiful",
+      "date_checked": "2025-01-17",
+      "meter": "7.6.7.6 with refrain",
       "lyrics": [
         {
           "verse": 1,
@@ -11868,8 +12035,13 @@
       "id": 293,
       "number": "293",
       "title": "There's a Friend for Little Children",
-      "author": null,
+      "author": "Albert Midlane",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1859,
+      "reference_url": "https://en.wikipedia.org/wiki/There's_a_Friend_for_Little_Children",
+      "date_checked": "2025-01-17",
+      "meter": "7.6.7.6 D",
       "lyrics": [
         {
           "verse": 1,
@@ -11907,8 +12079,13 @@
       "id": 294,
       "number": "294",
       "title": "Tell Me the Old, Old Story",
-      "author": null,
+      "author": "Katherine Hankey",
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1866,
+      "reference_url": "https://en.wikipedia.org/wiki/Tell_Me_the_Old,_Old_Story",
+      "date_checked": "2025-01-17",
+      "meter": "7.6.7.6 D",
       "lyrics": [
         {
           "verse": 1,
@@ -12075,6 +12252,11 @@
       "title": "Jesus Loves Me",
       "author": null,
       "category": "Hymns",
+      "public_domain": true,
+      "publication_year": 1859,
+      "reference_url": "https://en.wikipedia.org/wiki/Jesus_Loves_Me",
+      "date_checked": "2025-01-17",
+      "meter": "7.7.7.7 with refrain",
       "lyrics": [
         {
           "verse": 1,
