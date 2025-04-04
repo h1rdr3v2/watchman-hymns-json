@@ -64,7 +64,12 @@
         },
         {
           "verse": 4,
-          "content": "Praise to the Lord, who with marvelous wisdom hath made thee!\nDecked thee with health, and with loving hand guided and stayed thee;",
+          "content": "Praise to the Lord, who with marvelous wisdom hath made thee!\nDecked thee with health, and with loving hand guided and stayed thee;\nHow oft in grief\nHath not He brought thee relief,\nSpreading His wings for thee to shade thee!",
+          "type": "verse"
+        },
+        {
+          "verse": 5,
+          "content": "Praise to the Lord! O let all that is in me adore - Him!\nAll that hath life and breath, come now with praises before Him!\nLet the Amen\nSound from His people again.\nGladly for aye we adore Him",
           "type": "verse"
         }
       ],
