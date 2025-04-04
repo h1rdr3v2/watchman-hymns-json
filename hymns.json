@@ -3159,8 +3159,12 @@
       "lyrics": [
         {
           "verse": 1,
-          "content": "God of mercy and compassion,\nLook with pity upon me;\nFather, let me call Thee Father,\n'Tis thy child returns to Thee.\nJesus Lord, I ask for mercy,\nLet me not implore in vain,\nAll my sins I now detest them,\nNever will I sin again.",
+          "content": "God of mercy and compassion,\nLook with pity upon me;\nFather, let me call Thee Father,\n'Tis thy child returns to Thee.",
           "type": "verse"
+        },
+        {
+          "content":"nJesus Lord, I ask for mercy,\nLet me not implore in vain,\nAll my sins I now detest them,\nNever will I sin again",
+          "type": "chorus"
         },
         {
           "verse": 2,
