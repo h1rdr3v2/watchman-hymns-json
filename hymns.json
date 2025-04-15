@@ -6,7 +6,6 @@
       "id": 1,
       "number": "1",
       "title": "O for a Thousand Tongues to Sing",
-      "author": "Charles Wesley",
       "lyrics": [
         {
           "verse": 1,
@@ -45,7 +44,6 @@
       "id": 2,
       "number": "2",
       "title": "Praise to the Lord",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -79,7 +77,6 @@
       "id": 3,
       "number": "3",
       "title": "To God Be The Glory",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -115,7 +112,6 @@
       "id": 4,
       "number": "4",
       "title": "Great Is Our God",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -160,7 +156,6 @@
       "id": 5,
       "number": "5",
       "title": "We Praise Thee, O God",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -198,7 +193,6 @@
       "id": 6,
       "number": "6",
       "title": "Praise Him! Praise Him!",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -222,7 +216,6 @@
       "id": 7,
       "number": "7",
       "title": "Immortal, Invisible, God Only Wise",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -251,7 +244,6 @@
       "id": 8,
       "number": "8",
       "title": "Thou Our Father",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -314,7 +306,6 @@
       "id": 9,
       "number": "9",
       "title": "Holy, Holy, Holy",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -343,7 +334,6 @@
       "id": 10,
       "number": "10",
       "title": "O Worship The King",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -377,7 +367,6 @@
       "id": 11,
       "number": "11",
       "title": "How Great Is Your Name",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -476,7 +465,6 @@
       "id": 13,
       "number": "13",
       "title": "Great Is Thy Faithfulness",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -512,7 +500,6 @@
       "id": 14,
       "number": "14",
       "title": "Blessed Be The Name",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -557,7 +544,6 @@
       "id": 15,
       "number": "15",
       "title": "All People That On Earth Do Dwell",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -586,7 +572,6 @@
       "id": 16,
       "number": "16",
       "title": "All The Earth",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -649,7 +634,6 @@
       "id": 17,
       "number": "17",
       "title": "All Hail The Power Of Jesus' Name",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -688,7 +672,6 @@
       "id": 18,
       "number": "18",
       "title": "Holy God We Praise Your Name",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -717,7 +700,6 @@
       "id": 19,
       "number": "19",
       "title": "O Come, Thou Wisdom Whose Decree",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -753,7 +735,6 @@
       "id": 20,
       "number": "20",
       "title": "Praise Be To God",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -827,7 +808,6 @@
       "id": 22,
       "number": "22",
       "title": "How Excellent",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -866,7 +846,6 @@
       "id": 23,
       "number": "23",
       "title": "O How I Love Jesus",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -911,7 +890,6 @@
       "id": 24,
       "number": "24",
       "title": "The Way, The Truth, The Life",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -947,7 +925,6 @@
       "id": 25,
       "number": "25",
       "title": "Joy to the World",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -976,7 +953,6 @@
       "id": 26,
       "number": "26",
       "title": "Jesus Only Is Our Message",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1039,7 +1015,6 @@
       "id": 27,
       "number": "27",
       "title": "My Jesus, I Love Thee",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1068,7 +1043,6 @@
       "id": 28,
       "number": "28",
       "title": "Jesus For Me",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1122,7 +1096,6 @@
       "id": 29,
       "number": "29",
       "title": "The Old Rugged Cross",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1167,7 +1140,6 @@
       "id": 30,
       "number": "30",
       "title": "He Died Of A Broken Heart",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1212,7 +1184,6 @@
       "id": 31,
       "number": "31",
       "title": "I've Found A Friend In Jesus",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1236,7 +1207,6 @@
       "id": 32,
       "number": "32",
       "title": "My Hope Is Built On Nothing Less",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1281,7 +1251,6 @@
       "id": 33,
       "number": "33",
       "title": "I've Anchored In Jesus",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1309,7 +1278,6 @@
       "id": 34,
       "number": "34",
       "title": "Take The Name Of Jesus",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1354,7 +1322,6 @@
       "id": 35,
       "number": "35",
       "title": "There's No One Like My Saviour",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1399,7 +1366,6 @@
       "id": 36,
       "number": "36",
       "title": "Worthy Is The Lamb",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1453,7 +1419,6 @@
       "id": 37,
       "number": "37",
       "title": "Christ Arose",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1489,7 +1454,6 @@
       "id": 38,
       "number": "38",
       "title": "When I See The Blood",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1534,7 +1498,6 @@
       "id": 39,
       "number": "39",
       "title": "Nothing But The Blood of Jesus",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -1572,7 +1535,6 @@
       "id": 40,
       "number": "40",
       "title": "Are You Washed",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -1617,7 +1579,6 @@
       "id": 41,
       "number": "41",
       "title": "There Is Power in the Blood",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -1662,7 +1623,6 @@
       "id": 42,
       "number": "42",
       "title": "Wonderful Words of Life",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -1707,7 +1667,6 @@
       "id": 43,
       "number": "43",
       "title": "Give Me the Bible",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -1752,7 +1711,6 @@
       "id": 44,
       "number": "44",
       "title": "The Bible Stands",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -1797,7 +1755,6 @@
       "id": 45,
       "number": "45",
       "title": "I Know the Bible Is True",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -1842,7 +1799,6 @@
       "id": 46,
       "number": "46",
       "title": "Cling to the Bible",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -1878,7 +1834,6 @@
       "id": 47,
       "number": "47",
       "title": "Thy Word Have I Hid in My Heart",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -1923,7 +1878,6 @@
       "id": 48,
       "number": "48",
       "title": "Happy Indeed Is the Man",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -1968,7 +1922,6 @@
       "id": 49,
       "number": "49",
       "title": "Be Ye Doers of the Word",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2008,7 +1961,6 @@
       "id": 50,
       "number": "50",
       "title": "Do All in the Name",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2053,7 +2005,6 @@
       "id": 51,
       "number": "51",
       "title": "Never Lose Sight of Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2098,7 +2049,6 @@
       "id": 52,
       "number": "52",
       "title": "Yield Not to Temptation",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2134,7 +2084,6 @@
       "id": 53,
       "number": "53",
       "title": "Leave It There",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2179,7 +2128,6 @@
       "id": 54,
       "number": "54",
       "title": "Just Obey",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2215,7 +2163,6 @@
       "id": 55,
       "number": "55",
       "title": "Trust and Obey",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2269,7 +2216,6 @@
       "id": 56,
       "number": "56",
       "title": "In Times Like These",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2301,7 +2247,6 @@
       "id": 57,
       "number": "57",
       "title": "Why Do You Wait?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2346,7 +2291,6 @@
       "id": 58,
       "number": "58",
       "title": "O Why Not Tonight?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2400,7 +2344,6 @@
       "id": 59,
       "number": "59",
       "title": "We Are Journeying Onward to Canaan Land",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2436,7 +2379,6 @@
       "id": 66,
       "number": "66",
       "title": "Prepare to Meet Thy God",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2481,7 +2423,6 @@
       "id": 60,
       "number": "60",
       "title": "While We Pray, and While We Plead",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2526,7 +2467,6 @@
       "id": 61,
       "number": "61",
       "title": "Almost Persuaded",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2550,7 +2490,6 @@
       "id": 62,
       "number": "62",
       "title": "Let Jesus Come Into Your Heart",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2595,7 +2534,6 @@
       "id": 63,
       "number": "63",
       "title": "While Jesus Whispers to You",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2629,7 +2567,6 @@
       "id": 64,
       "number": "64",
       "title": "Whosoever Will",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2665,7 +2602,6 @@
       "id": 65,
       "number": "65",
       "title": "There's a Stranger at the Door",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2694,7 +2630,6 @@
       "id": 67,
       "number": "67",
       "title": "Is Thy Heart Right with God?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2748,7 +2683,6 @@
       "id": 68,
       "number": "68",
       "title": "All Your Anxiety",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2784,7 +2718,6 @@
       "id": 69,
       "number": "69",
       "title": "Lord, I'm Coming Home",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2847,7 +2780,6 @@
       "id": 70,
       "number": "70",
       "title": "Ye Must Be Born Again",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2892,7 +2824,6 @@
       "id": 71,
       "number": "71",
       "title": "I Am Praying for You",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2946,7 +2877,6 @@
       "id": 72,
       "number": "72",
       "title": "Out of My Bondage",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -2975,7 +2905,6 @@
       "id": 73,
       "number": "73",
       "title": "Running Over",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3020,7 +2949,6 @@
       "id": 74,
       "number": "74",
       "title": "Just As I Am, Without One Plea",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3064,7 +2992,6 @@
       "id": 75,
       "number": "75",
       "title": "In Tenderness He Sought Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3118,7 +3045,6 @@
       "id": 76,
       "number": "76",
       "title": "Wonderful Grace of Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3154,7 +3080,6 @@
       "id": 77,
       "number": "77",
       "title": "God of Mercy and Compassion",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3187,7 +3112,6 @@
       "id": 78,
       "number": "78",
       "title": "The Old Account Settled",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3241,7 +3165,6 @@
       "id": 79,
       "number": "79",
       "title": "I Lost the World",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3286,7 +3209,6 @@
       "id": 80,
       "number": "80",
       "title": "I Stand Amazed",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3340,7 +3262,6 @@
       "id": 81,
       "number": "81",
       "title": "Jesus, My Lord, Behold at Length the Day",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3364,7 +3285,6 @@
       "id": 82,
       "number": "82",
       "title": "Because He Lives",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3400,7 +3320,6 @@
       "id": 83,
       "number": "83",
       "title": "No Other Plea",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3429,7 +3348,6 @@
       "id": 84,
       "number": "84",
       "title": "Rock of Ages, Cleft for Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3458,7 +3376,6 @@
       "id": 85,
       "number": "85",
       "title": "God Forgives and Forgets",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3503,7 +3420,6 @@
       "id": 86,
       "number": "86",
       "title": "The Son Hath Made Me Free",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3548,7 +3464,6 @@
       "id": 87,
       "number": "87",
       "title": "That Man of Calvary",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3593,7 +3508,6 @@
       "id": 88,
       "number": "88",
       "title": "Years I Spent in Vanity",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3638,7 +3552,6 @@
       "id": 89,
       "number": "89",
       "title": "Grace Greater Than All Our Sin",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3683,7 +3596,6 @@
       "id": 90,
       "number": "90",
       "title": "Victory in Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3719,7 +3631,6 @@
       "id": 91,
       "number": "91",
       "title": "Since Jesus Came Into My Heart",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3773,7 +3684,6 @@
       "id": 92,
       "number": "92",
       "title": "Amazing Grace!",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3807,7 +3717,6 @@
       "id": 93,
       "number": "93",
       "title": "Burdens Are Lifted at Calvary",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3843,7 +3752,6 @@
       "id": 94,
       "number": "94",
       "title": "Turn Your Eyes Upon Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3879,7 +3787,6 @@
       "id": 95,
       "number": "95",
       "title": "I Lay My Sins on Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3908,7 +3815,6 @@
       "id": 96,
       "number": "96",
       "title": "When a Sinner Comes",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3944,7 +3850,6 @@
       "id": 97,
       "number": "97",
       "title": "Saved by the Blood",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -3989,7 +3894,6 @@
       "id": 98,
       "number": "98",
       "title": "He Brought Me Out",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4043,7 +3947,6 @@
       "id": 99,
       "number": "99",
       "title": "He Took My Place",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4088,7 +3991,6 @@
       "id": 100,
       "number": "100",
       "title": "When He Reached Down His Hand for Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4133,7 +4035,6 @@
       "id": 101,
       "number": "101",
       "title": "Glorious Freedom",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4178,7 +4079,6 @@
       "id": 102,
       "number": "102",
       "title": "Though Your Sins Be As Scarlet",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4212,7 +4112,6 @@
       "id": 103,
       "number": "103",
       "title": "Look and Live",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4248,7 +4147,6 @@
       "id": 104,
       "number": "104",
       "title": "He Touched Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4275,7 +4173,6 @@
       "id": 105,
       "number": "105",
       "title": "Under His Wings",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4311,7 +4208,6 @@
       "id": 106,
       "number": "106",
       "title": "Christ Jesus Hath the Power",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4356,7 +4252,6 @@
       "id": 107,
       "number": "107",
       "title": "His Yoke Is Easy",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -4410,7 +4305,6 @@
       "id": 108,
       "number": "108",
       "title": "I Know That My Redeemer",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4446,7 +4340,6 @@
       "id": 109,
       "number": "109",
       "title": "His Eye Is on the Sparrow",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4482,7 +4375,6 @@
       "id": 110,
       "number": "110",
       "title": "Heaven Came Down",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4518,7 +4410,6 @@
       "id": 111,
       "number": "111",
       "title": "Christ Receiveth Sinful Men",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4563,7 +4454,6 @@
       "id": 112,
       "number": "112",
       "title": "Blessed Assurance",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4599,7 +4489,6 @@
       "id": 113,
       "number": "113",
       "title": "How Sweet the Name of Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4633,7 +4522,6 @@
       "id": 114,
       "number": "114",
       "title": "It Is Well with My Soul",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4687,7 +4575,6 @@
       "id": 115,
       "number": "115",
       "title": "Standing on the Promises of God",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4741,7 +4628,6 @@
       "id": 116,
       "number": "116",
       "title": "Hark, My Soul! It Is The Lord",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4780,7 +4666,6 @@
       "id": 117,
       "number": "117",
       "title": "All Is Well",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4804,7 +4689,6 @@
       "id": 118,
       "number": "118",
       "title": "But I Know Whom I Have Believed",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4858,7 +4742,6 @@
       "id": 119,
       "number": "119",
       "title": "Try Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4903,7 +4786,6 @@
       "id": 120,
       "number": "120",
       "title": "Then Jesus Came",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -4948,7 +4830,6 @@
       "id": 121,
       "number": "121",
       "title": "Will Your Anchor Hold",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5002,7 +4883,6 @@
       "id": 122,
       "number": "122",
       "title": "'Tis So Sweet to Trust in Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5047,7 +4927,6 @@
       "id": 123,
       "number": "123",
       "title": "Like Zion's Holy Mount",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5092,7 +4971,6 @@
       "id": 124,
       "number": "124",
       "title": "All Things in Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5137,7 +5015,6 @@
       "id": 125,
       "number": "125",
       "title": "O Happy Day That Fixed My Choice",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5182,7 +5059,6 @@
       "id": 126,
       "number": "126",
       "title": "I Rejoiced When I Heard Them Say",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5245,7 +5121,6 @@
       "id": 127,
       "number": "127",
       "title": "The Church's One Foundation",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5279,7 +5154,6 @@
       "id": 128,
       "number": "128",
       "title": "The Lord's My Shepherd",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5313,7 +5187,6 @@
       "id": 129,
       "number": "129",
       "title": "He'll Never Forget to Keep Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5358,7 +5231,6 @@
       "id": 130,
       "number": "130",
       "title": "In the Hollow of His Hand",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5394,7 +5266,6 @@
       "id": 131,
       "number": "131",
       "title": "Guide Me, O Thou Great Jehovah",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5423,7 +5294,6 @@
       "id": 132,
       "number": "132",
       "title": "He Leadeth Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5468,7 +5338,6 @@
       "id": 133,
       "number": "133",
       "title": "Saviour, Like a Shepherd Lead Us",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5497,7 +5366,6 @@
       "id": 134,
       "number": "134",
       "title": "Saviour, Lead Me Lest I Stray",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5533,7 +5401,6 @@
       "id": 135,
       "number": "135",
       "title": "If God Be For Us",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5578,7 +5445,6 @@
       "id": 136,
       "number": "136",
       "title": "Sweet Is the Promise",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5614,7 +5480,6 @@
       "id": 137,
       "number": "137",
       "title": "Be Not Dismayed Whate'er Betide",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5659,7 +5524,6 @@
       "id": 138,
       "number": "138",
       "title": "Got Any River",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5695,7 +5559,6 @@
       "id": 139,
       "number": "139",
       "title": "Safe in the Arms of Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5731,7 +5594,6 @@
       "id": 140,
       "number": "140",
       "title": "I Will Guide Thee",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5776,7 +5638,6 @@
       "id": 141,
       "number": "141",
       "title": "God Leads Us Along",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5821,7 +5682,6 @@
       "id": 142,
       "number": "142",
       "title": "Lead Us, Heavenly Father, Lead Us",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5845,7 +5705,6 @@
       "id": 143,
       "number": "143",
       "title": "Tenderly Guide Us, O Shepherd",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5881,7 +5740,6 @@
       "id": 144,
       "number": "144",
       "title": "God Can Do Anything But Fail",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5908,7 +5766,6 @@
       "id": 145,
       "number": "145",
       "title": "I Am So Glad That Jesus Loves Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -5971,7 +5828,6 @@
       "id": 146,
       "number": "146",
       "title": "Surely Goodness and Mercy",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6007,7 +5863,6 @@
       "id": 147,
       "number": "147",
       "title": "No One Ever Cared for Me Like Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6043,7 +5898,6 @@
       "id": 148,
       "number": "148",
       "title": "Peace, Perfect Peace",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6087,7 +5941,6 @@
       "id": 149,
       "number": "149",
       "title": "Does Jesus Care",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6132,7 +5985,6 @@
       "id": 150,
       "number": "150",
       "title": "Leaning on the Everlasting Arms",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6168,7 +6020,6 @@
       "id": 151,
       "number": "151",
       "title": "Anywhere with Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6213,7 +6064,6 @@
       "id": 152,
       "number": "152",
       "title": "My Father Watches Over Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6258,7 +6108,6 @@
       "id": 153,
       "number": "153",
       "title": "A Shelter In The Time Of Storm",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -6303,7 +6152,6 @@
       "id": 154,
       "number": "154",
       "title": "Higher Ground",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6348,7 +6196,6 @@
       "id": 155,
       "number": "155",
       "title": "Search Me, O God",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6377,7 +6224,6 @@
       "id": 156,
       "number": "156",
       "title": "Send a Great Revival",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6422,7 +6268,6 @@
       "id": 157,
       "number": "157",
       "title": "All Things Are Possible",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6456,7 +6301,6 @@
       "id": 158,
       "number": "158",
       "title": "Called Unto Holiness",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6510,7 +6354,6 @@
       "id": 159,
       "number": "159",
       "title": "In the Old-Time Way",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6555,7 +6398,6 @@
       "id": 160,
       "number": "160",
       "title": "Take Time to Be Holy",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6584,7 +6426,6 @@
       "id": 161,
       "number": "161",
       "title": "Take the World",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6629,7 +6470,6 @@
       "id": 162,
       "number": "162",
       "title": "Take My Life and Let It Be",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6668,7 +6508,6 @@
       "id": 163,
       "number": "163",
       "title": "Oh To Be Like Thee",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6722,7 +6561,6 @@
       "id": 164,
       "number": "164",
       "title": "At the Cross",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6767,7 +6605,6 @@
       "id": 165,
       "number": "165",
       "title": "Once More My Soul",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6821,7 +6658,6 @@
       "id": 166,
       "number": "166",
       "title": "I Must Needs Go Home",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6857,7 +6693,6 @@
       "id": 167,
       "number": "167",
       "title": "I Surrender All",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6911,7 +6746,6 @@
       "id": 168,
       "number": "168",
       "title": "When I Survey the Wondrous Cross",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6940,7 +6774,6 @@
       "id": 169,
       "number": "169",
       "title": "Into the Heart of Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -6969,7 +6802,6 @@
       "id": 170,
       "number": "170",
       "title": "Deeper, Deeper in the Love of Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7014,7 +6846,6 @@
       "id": 171,
       "number": "171",
       "title": "I Gave My Life for Thee",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7043,7 +6874,6 @@
       "id": 172,
       "number": "172",
       "title": "I Am Thine, O Lord",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7088,7 +6918,6 @@
       "id": 173,
       "number": "173",
       "title": "Faith of Our Fathers",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7133,7 +6962,6 @@
       "id": 174,
       "number": "174",
       "title": "O Jesus, I Have Promised",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7167,7 +6995,6 @@
       "id": 175,
       "number": "175",
       "title": "Nearer, My God, to Thee",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7201,7 +7028,6 @@
       "id": 176,
       "number": "176",
       "title": "Near the Cross",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7246,7 +7072,6 @@
       "id": 177,
       "number": "177",
       "title": "Thou My Everlasting Portion",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7282,7 +7107,6 @@
       "id": 178,
       "number": "178",
       "title": "Thy Will Be Done",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7327,7 +7151,6 @@
       "id": 179,
       "number": "179",
       "title": "Is Your Life a Channel of Blessing",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7372,7 +7195,6 @@
       "id": 180,
       "number": "180",
       "title": "I Am Determined to Hold Out",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7417,7 +7239,6 @@
       "id": 181,
       "number": "181",
       "title": "More About Jesus Would I Know",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7462,7 +7283,6 @@
       "id": 182,
       "number": "182",
       "title": "Jesus, I My Cross Have Taken",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7486,7 +7306,6 @@
       "id": 183,
       "number": "183",
       "title": "Christians, Walk Carefully",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7515,7 +7334,6 @@
       "id": 184,
       "number": "184",
       "title": "Hark! 'Tis the Watchman's Cry",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7544,7 +7362,6 @@
       "id": 185,
       "number": "185",
       "title": "I Love to Walk with Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7589,7 +7406,6 @@
       "id": 186,
       "number": "186",
       "title": "I'd Rather Have Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7625,7 +7441,6 @@
       "id": 187,
       "number": "187",
       "title": "Obedience Brings a Blessing",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7661,7 +7476,6 @@
       "id": 188,
       "number": "188",
       "title": "Bringing in the Sheaves",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7697,7 +7511,6 @@
       "id": 189,
       "number": "189",
       "title": "Bring Them In",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7733,7 +7546,6 @@
       "id": 190,
       "number": "190",
       "title": "Win Them One by One",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7778,7 +7590,6 @@
       "id": 191,
       "number": "191",
       "title": "Brighten the Corner Where You Are",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7814,7 +7625,6 @@
       "id": 192,
       "number": "192",
       "title": "Till the Whole World Knows",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7859,7 +7669,6 @@
       "id": 193,
       "number": "193",
       "title": "How Shall They Hear?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7893,7 +7702,6 @@
       "id": 194,
       "number": "194",
       "title": "I Love to Tell the Story",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7938,7 +7746,6 @@
       "id": 195,
       "number": "195",
       "title": "Christ Hath Redeemed",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -7983,7 +7790,6 @@
       "id": 196,
       "number": "196",
       "title": "Of Gifts and Powers",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8022,7 +7828,6 @@
       "id": 197,
       "number": "197",
       "title": "With Signs Following",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8056,7 +7861,6 @@
       "id": 198,
       "number": "198",
       "title": "Bring Your Vessels Not a Few",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8092,7 +7896,6 @@
       "id": 199,
       "number": "199",
       "title": "Joys Are Flowing Like a River",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8146,7 +7949,6 @@
       "id": 200,
       "number": "200",
       "title": "Come, Holy Ghost Creator Come",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8190,7 +7992,6 @@
       "id": 201,
       "number": "201",
       "title": "Give Me a Double Portion",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8226,7 +8027,6 @@
       "id": 202,
       "number": "202",
       "title": "There Shall Be Showers of Blessing",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8280,7 +8080,6 @@
       "id": 203,
       "number": "203",
       "title": "The Comforter Has Come",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8325,7 +8124,6 @@
       "id": 204,
       "number": "204",
       "title": "Waiting on the Lord",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8361,7 +8159,6 @@
       "id": 205,
       "number": "205",
       "title": "Come, Thou Almighty King",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8390,7 +8187,6 @@
       "id": 206,
       "number": "206",
       "title": "God Is Here, and That to Bless Us",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8435,7 +8231,6 @@
       "id": 207,
       "number": "207",
       "title": "Spirit of God",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8462,7 +8257,6 @@
       "id": 208,
       "number": "208",
       "title": "Spirit Divine! Attend Our Prayers",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8496,7 +8290,6 @@
       "id": 209,
       "number": "209",
       "title": "Come, Holy Ghost, Our Hearts Inspire",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8525,7 +8318,6 @@
       "id": 210,
       "number": "210",
       "title": "To the Work",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8570,7 +8362,6 @@
       "id": 211,
       "number": "211",
       "title": "Must I Go and Empty-Handed?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8615,7 +8406,6 @@
       "id": 212,
       "number": "212",
       "title": "Rescue the Perishing",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8660,7 +8450,6 @@
       "id": 213,
       "number": "213",
       "title": "I'll Go",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8696,7 +8485,6 @@
       "id": 214,
       "number": "214",
       "title": "Go, Labour On",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8725,7 +8513,6 @@
       "id": 215,
       "number": "215",
       "title": "Will Jesus Find Us Watching?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8770,7 +8557,6 @@
       "id": 216,
       "number": "216",
       "title": "Call for Workers",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8815,7 +8601,6 @@
       "id": 217,
       "number": "217",
       "title": "Fading Away",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8860,7 +8645,6 @@
       "id": 218,
       "number": "218",
       "title": "Lord, Speak to Me That I May Speak",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8904,7 +8688,6 @@
       "id": 219,
       "number": "219",
       "title": "Will There Be Any Stars?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8940,7 +8723,6 @@
       "id": 220,
       "number": "220",
       "title": "So Send I You",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -8994,7 +8776,6 @@
       "id": 221,
       "number": "221",
       "title": "Count Your Blessings",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9039,7 +8820,6 @@
       "id": 222,
       "number": "222",
       "title": "O Watchman on the Mountain Height",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9075,7 +8855,6 @@
       "id": 223,
       "number": "223",
       "title": "I Love, I Love My Master",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9099,7 +8878,6 @@
       "id": 224,
       "number": "224",
       "title": "Sound the Alarm, Watchman",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9144,7 +8922,6 @@
       "id": 225,
       "number": "225",
       "title": "God Gives His People Strength",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9173,7 +8950,6 @@
       "id": 226,
       "number": "226",
       "title": "Let Others See Jesus in You",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9218,7 +8994,6 @@
       "id": 227,
       "number": "227",
       "title": "O Brother, Have You Told How the Lord Forgave",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9263,7 +9038,6 @@
       "id": 228,
       "number": "228",
       "title": "I Must Tell Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9308,7 +9082,6 @@
       "id": 229,
       "number": "229",
       "title": "Tell It to Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9353,7 +9126,6 @@
       "id": 230,
       "number": "230",
       "title": "Sweet Hour of Prayer",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9377,7 +9149,6 @@
       "id": 231,
       "number": "231",
       "title": "The Royal Telephone",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9431,7 +9202,6 @@
       "id": 232,
       "number": "232",
       "title": "Stand By Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9465,7 +9235,6 @@
       "id": 233,
       "number": "233",
       "title": "What a Friend We Have in Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9489,7 +9258,6 @@
       "id": 234,
       "number": "234",
       "title": "Pass Me Not, O Gentle Saviour",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9534,7 +9302,6 @@
       "id": 235,
       "number": "235",
       "title": "Grant to Us, O Lord, a Heart Renewed",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9570,7 +9337,6 @@
       "id": 236,
       "number": "236",
       "title": "Open My Eyes, That I May See",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9624,7 +9390,6 @@
       "id": 237,
       "number": "237",
       "title": "When I Prayed Through",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9651,7 +9416,6 @@
       "id": 238,
       "number": "238",
       "title": "I Need Thee Every Hour",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9705,7 +9469,6 @@
       "id": 239,
       "number": "239",
       "title": "Let the Beauty of Jesus Be Seen",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9734,7 +9497,6 @@
       "id": 240,
       "number": "240",
       "title": "Christian Home",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9763,7 +9525,6 @@
       "id": 241,
       "number": "241",
       "title": "Glory! Glory! Hallelujah!",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9808,7 +9569,6 @@
       "id": 242,
       "number": "242",
       "title": "Victory Ahead",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9862,7 +9622,6 @@
       "id": 243,
       "number": "243",
       "title": "Onward, Christian Soldiers",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9916,7 +9675,6 @@
       "id": 244,
       "number": "244",
       "title": "Sound the Battle Cry",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9952,7 +9710,6 @@
       "id": 245,
       "number": "245",
       "title": "Stand Up! Stand Up! For Jesus!",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -9981,7 +9738,6 @@
       "id": 246,
       "number": "246",
       "title": "Hold the Fort",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10026,7 +9782,6 @@
       "id": 247,
       "number": "247",
       "title": "Christian, Seek Not Yet Repose",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10065,7 +9820,6 @@
       "id": 248,
       "number": "248",
       "title": "Master, the Tempest Is Raging",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10101,7 +9855,6 @@
       "id": 249,
       "number": "249",
       "title": "Victory All the Time",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10137,7 +9890,6 @@
       "id": 250,
       "number": "250",
       "title": "When the Battle's Over",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10182,7 +9934,6 @@
       "id": 251,
       "number": "251",
       "title": "The God to Whom I Pray",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10222,7 +9973,6 @@
       "id": 252,
       "number": "252",
       "title": "It's Not an Easy Road",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10258,7 +10008,6 @@
       "id": 253,
       "number": "253",
       "title": "God Be with You",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10303,7 +10052,6 @@
       "id": 254,
       "number": "254",
       "title": "The Day Thou Gavest, Lord",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10337,7 +10085,6 @@
       "id": 255,
       "number": "255",
       "title": "Abide with Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10371,7 +10118,6 @@
       "id": 256,
       "number": "256",
       "title": "Asleep in Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10405,7 +10151,6 @@
       "id": 257,
       "number": "257",
       "title": "Tomorrow May Mean Goodbye",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10441,7 +10186,6 @@
       "id": 258,
       "number": "258",
       "title": "When the Roll Is Called Up Yonder",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10477,7 +10221,6 @@
       "id": 259,
       "number": "259",
       "title": "In the Morning of Joy",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10513,7 +10256,6 @@
       "id": 260,
       "number": "260",
       "title": "O Be Ready",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10576,7 +10318,6 @@
       "id": 261,
       "number": "261",
       "title": "I Shall Know Him",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10612,7 +10353,6 @@
       "id": 262,
       "number": "262",
       "title": "I Shall Be No Stranger There",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10648,7 +10388,6 @@
       "id": 263,
       "number": "263",
       "title": "I Have Given Up All for Jesus",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10684,7 +10423,6 @@
       "id": 264,
       "number": "264",
       "title": "When I Get Home",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10720,7 +10458,6 @@
       "id": 265,
       "number": "265",
       "title": "I Am Bound for Canaan",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10756,7 +10493,6 @@
       "id": 266,
       "number": "266",
       "title": "Shall We Gather at the River?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10810,7 +10546,6 @@
       "id": 267,
       "number": "267",
       "title": "Not Made With Hands",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10864,7 +10599,6 @@
       "id": 268,
       "number": "268",
       "title": "I Am Bound for the Promised Land",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10909,7 +10643,6 @@
       "id": 269,
       "number": "269",
       "title": "Beulah Land",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10954,7 +10687,6 @@
       "id": 270,
       "number": "270",
       "title": "I Have Heard of a Land",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -10990,7 +10722,6 @@
       "id": 271,
       "number": "271",
       "title": "How Beautiful Heaven Must Be",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11035,7 +10766,6 @@
       "id": 272,
       "number": "272",
       "title": "When We All Get to Heaven",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11080,7 +10810,6 @@
       "id": 273,
       "number": "273",
       "title": "Walking in Sunlight",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11116,7 +10845,6 @@
       "id": 274,
       "number": "274",
       "title": "Near to the Heart of God",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11152,7 +10880,6 @@
       "id": 275,
       "number": "275",
       "title": "Come Over",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11188,7 +10915,6 @@
       "id": 276,
       "number": "276",
       "title": "I'll Live On",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11233,7 +10959,6 @@
       "id": 277,
       "number": "277",
       "title": "Hark, Hark, My Soul",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11278,7 +11003,6 @@
       "id": 278,
       "number": "278",
       "title": "Face to Face",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11323,7 +11047,6 @@
       "id": 279,
       "number": "279",
       "title": "You Never Mentioned Him to Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11359,7 +11082,6 @@
       "id": 280,
       "number": "280",
       "title": "Too Late",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11404,7 +11126,6 @@
       "id": 281,
       "number": "281",
       "title": "Have You Counted the Cost?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11440,7 +11161,6 @@
       "id": 282,
       "number": "282",
       "title": "There's a Great Day Coming",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11476,7 +11196,6 @@
       "id": 283,
       "number": "283",
       "title": "Where Will You Spend Eternity?",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11521,7 +11240,6 @@
       "id": 284,
       "number": "284",
       "title": "The Great Judgment Morning",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11566,7 +11284,6 @@
       "id": 285,
       "number": "285",
       "title": "Sorry, I Never Knew You",
-      "author": null,
       "lyrics": [
         {
           "verse": 1,
@@ -11611,7 +11328,6 @@
       "id": 286,
       "number": "286",
       "title": "God Help You to Follow His Banner",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11647,7 +11363,6 @@
       "id": 287,
       "number": "287",
       "title": "Jesus Bids Us Shine",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11671,7 +11386,6 @@
       "id": 288,
       "number": "288",
       "title": "Dare to Be a Daniel",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11716,7 +11430,6 @@
       "id": 289,
       "number": "289",
       "title": "There Is a Green Hill Far Away",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11761,7 +11474,6 @@
       "id": 290,
       "number": "290",
       "title": "Father God in Heaven",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11795,7 +11507,6 @@
       "id": 291,
       "number": "291",
       "title": "All Things Bright and Beautiful",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11849,7 +11560,6 @@
       "id": 292,
       "number": "292",
       "title": "I Think When I Read the Sweet Story",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11873,7 +11583,6 @@
       "id": 293,
       "number": "293",
       "title": "There's a Friend for Little Children",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11912,7 +11621,6 @@
       "id": 294,
       "number": "294",
       "title": "Tell Me the Old, Old Story",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11957,7 +11665,6 @@
       "id": 295,
       "number": "295",
       "title": "Loving Shepherd of Thy Sheep",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -11991,7 +11698,6 @@
       "id": 296,
       "number": "296",
       "title": "Jesus, Lover of My Soul",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -12020,7 +11726,6 @@
       "id": 297,
       "number": "297",
       "title": "Gentle Jesus, Meek and Mild",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -12054,7 +11759,6 @@
       "id": 298,
       "number": "298",
       "title": "I Love to Hear the Story",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -12078,7 +11782,6 @@
       "id": 299,
       "number": "299",
       "title": "Jesus Loves Me",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
@@ -12114,7 +11817,6 @@
       "id": 300,
       "number": "300",
       "title": "We Stand for God",
-      "author": null,
       "category": "Hymns",
       "lyrics": [
         {
